@@ -7,4 +7,4 @@ public class Surname {
                 "Your surname doesn't contains the sequence of letters 'ni'";
         System.out.println(question);
         }
-    }
+   }
